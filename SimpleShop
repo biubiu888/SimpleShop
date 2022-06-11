@@ -1,12 +1,4 @@
-# 日期：2019-03-13
-# 简介：策略模式
-# 人员：Hyl
- 
-# 基本代码
-import abc
-import math
- 
- 
+
 # if __name__ == "__main__":
 #     print("请输入打折折扣：")
 #     a = input()
